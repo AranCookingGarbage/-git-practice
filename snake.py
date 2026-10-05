@@ -1,1 +1,4 @@
-print("Helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo!")
+name = input("What is your name? ")
+colour = input("What is your favourite colour? ")
+print(f"Hello, {name}!")
+print(f"{colour.title()} is an excellent choice.")
